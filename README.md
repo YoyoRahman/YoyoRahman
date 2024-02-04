@@ -10,8 +10,8 @@ Developer
 
 <a href="https://www.twitter.com/YRahmandoost" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/Rahmandoost?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a><a href="https://www.github.com/badrnezhad" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/badrnezhad?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+                /></a><a href="https://www.github.com/YoyoRahman" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/YoyoRahman?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
                   
 ### Skills
 <p align="left">

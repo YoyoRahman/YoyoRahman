@@ -38,9 +38,10 @@ src="https://img.shields.io/github/followers/YoyoRahman?logo=github&style=for-th
   <a href="https://www.linkedin.com/yahyarahmandoost" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   <a href="https://www.twitter.com/YRahmandoost" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
 
-<b>📊My GitHub Stats</b>
+
+### <b>📊My GitHub Stats</b>
+
 ![](https://github-readme-stats.vercel.app/api?username=YoyoRahman&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YoyoRahman&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YoyoRahman&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)

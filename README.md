@@ -40,7 +40,11 @@ src="https://img.shields.io/github/followers/YoyoRahman?logo=github&style=for-th
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<b>📊My GitHub Stats</b>
+![](https://github-readme-stats.vercel.app/api?username=YoyoRahman&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=YoyoRahman&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YoyoRahman&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 <a href="https://github.com/YoyoRahman" align="left"><img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoyoRahman&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 ### Support Me

@@ -6,13 +6,15 @@
 
 <h3 align="center">A passionate Trainee Frontend developer</h3>
 
+*   🖥️  See my portfolio at [yahyarahmandoost.com](https://yahyarahmandoost.com)
+*   🚀  I'm currently working on 
+*   🤝  I'm open to collaborating on interesting projects as a web and javascript developer
+
 <br/>
 
 -----------------------------
 
-*   🖥️  See my portfolio at [yahyarahmandoost.com](https://yahyarahmandoost.com)
-*   🚀  I'm currently working on 
-*   🤝  I'm open to collaborating on interesting projects as a web and javascript developer
+
 
 <a href="https://www.twitter.com/YRahmandoost" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/Rahmandoost?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"

@@ -20,7 +20,7 @@
 src="https://img.shields.io/github/followers/YoyoRahman?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 </a> <a href="https://www.mail.google.com/yoyorahman.nm@gmail.com" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/gmail/followers/YoyoRahman?logo=gmail&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-                  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"> | `https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white`
+              
 ### Skills
 <p align="left">
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>

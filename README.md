@@ -14,12 +14,19 @@
 
 -----------------------------
 
-
-
-<a href="https://www.gmail.com/yoyorhaman.nm@gmail.com" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/Gmail/Rahmandoost?logo=gmail&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
- <a href="https://www.github.com/YoyoRahman" target="_blank" rel="noreferrer">
- <img src="https://img.shields.io/github/followers/YoyoRahman?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+ </div>
+ 
+ <div align="center"> 
+  <a href="mailto:yoyorahman.nm@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/yoyorahman73/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://YoyoRahman.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
                   
 ### Skills
 <p align="left">

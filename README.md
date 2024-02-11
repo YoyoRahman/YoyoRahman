@@ -7,7 +7,7 @@
 <h3 align="center">A passionate Trainee Frontend developer</h3>
 
 *   🖥️  See my portfolio at [yahyarahmandoost.com](https://yahyarahmandoost.com)
-*   🚀  I'm currently working on 
+*   🚀  I'm currently working on **My Self**
 *   🤝  I'm open to collaborating on interesting projects as a web and javascript developer
 
 <br/>

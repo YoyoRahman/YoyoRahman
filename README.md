@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF8956&center=true&vCenter=true&random=false&width=435&lines=Hi+There+%F0%9F%91%8B;Welcome+to+my+Github+%F0%9F%98%8A;I'm+Yahya+Rahmandoost+%E2%98%BA%EF%B8%8F%E2%9C%8C%EF%B8%8F" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center">A passionate Trainee Frontend developer</h3>
+<h3 align="center">a front-end developer passionate about crafting engaging and user-friendly experiences</h3>
 
 *   🖥️  See my portfolio at [yahyarahmandoost.com](https://yahyarahmandoost.com)
 *   🚀  I'm currently working on **My Self**

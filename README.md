@@ -51,9 +51,6 @@ src="https://img.shields.io/github/followers/YoyoRahman?logo=github&style=for-th
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YoyoRahman&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YoyoRahman&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YoyoRahman&theme=nord&no-frame=true&no-bg=false&margin-w=4)
-
 ### Support Me
 <a href="https://www.buymeacoffee.com/yoyorahman"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 <!--
